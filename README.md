@@ -9,3 +9,6 @@
 
 # Usage
     > ./ico.tcl mynewicon.jpg
+
+# interface
+    for the interface refer to sample image: iconifier_interface.png
