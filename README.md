@@ -8,4 +8,4 @@
     - the ico-package either in the current directory, a lib-subdirectory or just installed
 
 # Usage
-    > ./ico.tcl myprog.exe mynewicon.jpg
+    > ./ico.tcl mynewicon.jpg
