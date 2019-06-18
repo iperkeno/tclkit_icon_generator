@@ -3,12 +3,12 @@
     This software is derived from: 
       https://wiki.tcl-lang.org/page/Create+starkit.ico+for+windows+starpack
 
-# Prerequisites:
-    - convert from Image Magick
-    - the ico-package either in the current directory, a lib-subdirectory or just installed
+## Prerequisites:
+    * convert from **Image Magick**
+    * the ico-package either in the current directory, a lib-subdirectory or just installed
 
-# Usage
+## Usage
     > ./ico.tcl mynewicon.jpg
 
-# interface
+## interface
     for the interface refer to sample image: iconifier_interface.png
